@@ -7,6 +7,7 @@ With a background in Quality of Service Engineering and a passion for clean, imp
 ---
 
 ### 💡 About Me  
+- 💻 Former **QoS Engineer at Orange Telecom**, where I improved service reliability and system efficiency.
 - 🧠 Currently working as a **Freelance Fullstack Developer** (React, Next.js, Ruby on Rails)  
 - 🎓 Graduated from **Le Wagon Bootcamp** (Full Stack Web Development, Amsterdam)  
 - 💬 Ask me about **frontend development**, **UI/UX design**, or **API integration**  
