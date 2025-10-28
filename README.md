@@ -49,7 +49,7 @@ With a background in Quality of Service Engineering and a passion for clean, imp
 ---
 ### 📊 GitHub Stats  
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=christinematta&show_icons=true&theme=radical" height="165px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christinematta&layout=compact&theme=radical" height="165px"/>
 </p>
@@ -67,9 +67,6 @@ With a background in Quality of Service Engineering and a passion for clean, imp
   </a>
   <a href="mailto:christine.i.matta@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/christinematta" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
