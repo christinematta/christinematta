@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I am Christine
+
+### 📊 GitHub Stats:
+![Christine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=christinematta&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christinematta&layout=compact&theme=radical)
+
 
 <!--
 **christinematta/christinematta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
