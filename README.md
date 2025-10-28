@@ -20,9 +20,9 @@ With a background in Quality of Service Engineering and a passion for clean, imp
 
 <table width="100%">
   <tr>
-    <th align="left">Languages</th>
+    <th align="center">Languages</th>
     <th align="center">Frameworks & Libraries</th>
-    <th align="right">Tools & Platforms</th>
+    <th align="center">Tools & Platforms</th>
   </tr>
   <tr>
     <td align="left">
