@@ -46,7 +46,7 @@ With a background in Quality of Service Engineering and a passion for clean, imp
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="40" height="40" alt="Heroku"/>
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="40" height="40" alt="REST API"/>
+      <img src="https://github.com/christinematta/christinematta/blob/main/icons8-rest-api-50.png?raw=true" width="40" height="40" alt="REST API"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
     </td>
