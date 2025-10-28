@@ -1,5 +1,5 @@
 # Hi 👋, I'm Christine Matta  
-### Frontend Developer | React & Ruby on Rails | Based in The Netherlands 🇳🇱  
+### Frontend Developer | Based in The Netherlands 🇳🇱  
 
 🚀 I’m a proactive and results-driven Frontend Developer with experience in building scalable and user-focused web applications.  
 With a background in Quality of Service Engineering and a passion for clean, impactful UI/UX, I love transforming ideas into interactive digital experiences.  
@@ -58,17 +58,21 @@ With a background in Quality of Service Engineering and a passion for clean, imp
 
 ### 🤝 Connect with Me  
 
-<p align="left">
+<p align="center">
+  <a href="https://christine-matta-portfolio.pages.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/christinmatta" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:christine.i.matta@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://christine-matta-portfolio.pages.dev/" target="_blank">
-    <img src="https://github.com/christinematta/christinematta/blob/main/Portfolio.png?raw=true" alt="Portfolio" width="40" height="40"/>
+  <a href="https://github.com/christinematta" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+
 
 ---
 
