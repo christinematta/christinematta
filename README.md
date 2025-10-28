@@ -66,7 +66,7 @@ With a background in Quality of Service Engineering and a passion for clean, imp
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
   </a>
   <a href="https://christine-matta-portfolio.pages.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Portfolio" width="40" height="40"/>
+    <img src="https://github.com/christinematta/christinematta/blob/main/Portfolio.png?raw=true" alt="Portfolio" width="40" height="40"/>
   </a>
 </p>
 
