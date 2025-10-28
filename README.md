@@ -27,27 +27,6 @@ React, Next.js, Node.js, Ruby on Rails, Vue.js, Bootstrap, SASS, Tailwind CSS
 Git, GitHub, Heroku, REST APIs, Figma, MongoDB  
 
 ---
-
-### 🌟 Projects  
-
-#### 🛍️ [MŌDE](#)
-A **Full Stack E-Commerce Website** built using **React.js**, **MongoDB**, **Express**, and **Node.js**.  
-Developed a responsive, user-friendly shopping experience with dynamic product management and secure authentication.
-
-#### 🏡 [Homez](#)
-A real estate marketplace app built with **React** and **Node.js**, featuring advanced property search and filtering.  
-
-#### 🍔 [Eatsy](#)
-A food delivery platform developed using **React** and **Next.js**, improving customer satisfaction by 30%.  
-
-#### 🎿 [Ski_Bnb](#)
-A ski equipment rental app built with **Ruby on Rails** and **Figma-designed interfaces**, deployed on Heroku.  
-
-#### 💼 [Remotz](#)
-A task management web app built with **Ruby on Rails**, featuring real-time chat and team collaboration tools.  
-
----
-
 ### 📊 GitHub Stats  
 
 <p align="center">
