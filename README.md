@@ -58,9 +58,9 @@ With a background in Quality of Service Engineering and a passion for clean, imp
 
 ### 🤝 Connect with Me  
 
-<p align="center">
+<p align="left">
   <a href="https://christine-matta-portfolio.pages.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/christinmatta" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
